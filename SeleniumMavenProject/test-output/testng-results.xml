@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71" started-at="2018-04-24T10:36:34Z" finished-at="2018-04-24T10:36:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71" started-at="2018-04-24T10:36:34Z" finished-at="2018-04-24T10:36:34Z">
+      <class name="com.crm.customertest.CustomerTest">
+        <test-method status="PASS" signature="createCustomerTest()[pri:0, instance:com.crm.customertest.CustomerTest@7c16905e]" name="createCustomerTest" duration-ms="19" started-at="2018-04-24T16:06:34Z" finished-at="2018-04-24T16:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method status="PASS" signature="deleteCustomerTest()[pri:0, instance:com.crm.customertest.CustomerTest@7c16905e]" name="deleteCustomerTest" duration-ms="8" started-at="2018-04-24T16:06:34Z" finished-at="2018-04-24T16:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerTest -->
+        <test-method status="PASS" signature="modifyCustomerTest()[pri:0, instance:com.crm.customertest.CustomerTest@7c16905e]" name="modifyCustomerTest" duration-ms="6" started-at="2018-04-24T16:06:34Z" finished-at="2018-04-24T16:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyCustomerTest -->
+      </class> <!-- com.crm.customertest.CustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

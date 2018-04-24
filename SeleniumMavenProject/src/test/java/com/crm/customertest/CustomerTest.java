@@ -18,6 +18,9 @@ public class CustomerTest {
 	@Test 
 	public void modifyCustomerTest() {
 		System.out.println("execute modifyCustomerTest");
+		System.out.println("2nd commit");
+		
+		
 	}
 	@Test 
 	public void deleteCustomerTest() {

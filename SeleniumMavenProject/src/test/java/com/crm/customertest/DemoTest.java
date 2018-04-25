@@ -16,9 +16,5 @@ public class DemoTest {
 		System.out.println("test2 demo. . .");
 	}
 	
-	@Test
-	public void testDemo3()
-	{
-		System.out.println("test3 demo. . .");
-	}
+	
 }

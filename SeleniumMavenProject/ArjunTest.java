@@ -1,4 +1,12 @@
+import org.testng.Reporter;
 
-public class ArjunTest {
+public class ArjTest {
+	@Test
+	public void arj()
+	{
+		Reporter.log("arj",true);
+	}
+	
+	
 
 }
